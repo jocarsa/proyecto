@@ -1,0 +1,1 @@
+INSERT INTO `entradas` (`Identificador`, `administradores_usuario`, `titulo`, `texto`, `palabrasclave`, `categoriasblog_nombre`, `fecha`) VALUES (NULL, '1', 'Primera entrada del blog', 'Este es el texto del blog', 'uno,dos,tres,cuatro', '1', '2023-12-09');

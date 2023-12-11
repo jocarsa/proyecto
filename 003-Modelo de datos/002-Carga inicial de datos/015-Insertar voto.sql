@@ -1,0 +1,1 @@
+INSERT INTO `votos` (`Identificador`, `usuarios_usuario`, `respuestas_texto`, `valor`, `fecha`) VALUES (NULL, '2', '1', '1', '2023-12-09');

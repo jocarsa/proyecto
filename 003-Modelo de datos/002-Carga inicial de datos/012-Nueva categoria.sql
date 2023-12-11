@@ -1,0 +1,1 @@
+INSERT INTO `categorias` (`Identificador`, `nombre`) VALUES (NULL, 'General');

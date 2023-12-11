@@ -1,0 +1,1 @@
+INSERT INTO `usuarios` (`Identificador`, `usuario`, `contrasena`, `nombre`, `apellidos`, `email`, `imagen`) VALUES (NULL, 'jocarsa', 'jocarsa', 'Jose Vicente', 'Carratalá Sanchis', 'info@josevicentecarratala.com', 'josevicente.jpg');

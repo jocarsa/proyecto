@@ -1,0 +1,1 @@
+INSERT INTO `categoriasblog` (`Identificador`, `nombre`) VALUES (NULL, 'General');

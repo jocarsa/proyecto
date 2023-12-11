@@ -1,0 +1,1 @@
+INSERT INTO `preguntas` (`Identificador`, `usuarios_usuario`, `titulo`, `texto`, `palabrasclave`, `categorias_nombre`, `fecha`) VALUES (NULL, '2', 'Primera pregunta', 'Texto de la primera pregunta', 'uno,dos,tres,cuatro', '1', '2023-12-09');
